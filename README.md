@@ -26,3 +26,16 @@ The work compares **purely data-driven Artificial Neural Networks (ANNs)** with 
 - ANN performs best **within training range**
 - Hybrid PINN performs best **under unseen conditions**
 - SHAP confirms **spindle speed and feed rate** as dominant features (up to +0.68 influence)
+
+
+## Reproducibility
+
+Training epochs: 300
+
+Batch size: 32
+
+Optimizer: Adam
+
+Data split: 80% training / 20% testing
+
+Normalization: Min–Max scaling
