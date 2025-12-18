@@ -14,29 +14,15 @@ The work compares **purely data-driven Artificial Neural Networks (ANNs)** with 
 - **Explainable AI (SHAP)** analysis to interpret feature influence
 - Demonstrates superior **generalization and robustness** of Hybrid PINNs
 
-## Project Structure 
-├── data/
-│ ├── raw/ # Experimental milling power data
-│ ├── processed/ # Normalized and curated datasets
-│
-├── models/
-│ ├── ann.py # Baseline ANN model
-│ ├── pinn_soft.py # Soft-constraint PINN
-│ ├── pinn_hybrid.py # Hybrid PINN (multi-task formulation)
-│
-├── training/
-│ ├── train_ann.py
-│ ├── train_pinn_soft.py
-│ ├── train_pinn_hybrid.py
-│
-├── evaluation/
-│ ├── metrics.py # MSE, MAE, R²
-│ ├── extrapolation_tests.py
-│
-├── explainability/
-│ ├── shap_analysis.py # SHAP feature attribution
-│
-├── figures/ # Generated plots for paper
-├── requirements.txt
-├── README.md
-└── LICENSE
+
+## 📈 Results Summary
+
+| Model        | Interpolation (R²) | Extrapolation | Physical Consistency |
+|--------------|-------------------|---------------|---------------------|
+| ANN          | **0.954**         | ❌ Weak       | ❌ Low              |
+| Soft PINN    | 0.934             | ✅ Good       | ✅ Moderate         |
+| Hybrid PINN  | 0.920             | ✅ **Best**   | ✅ **High**         |
+
+- ANN performs best **within training range**
+- Hybrid PINN performs best **under unseen conditions**
+- SHAP confirms **spindle speed and feed rate** as dominant features (up to +0.68 influence)
