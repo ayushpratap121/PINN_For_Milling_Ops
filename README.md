@@ -27,6 +27,16 @@ The work compares **purely data-driven Artificial Neural Networks (ANNs)** with 
 - Hybrid PINN performs best **under unseen conditions**
 - SHAP confirms **spindle speed and feed rate** as dominant features (up to +0.68 influence)
 
+## 🧠 Explainability (SHAP)
+
+- Provides **feature-level contribution** to power prediction
+- PINNs show **balanced, physics-consistent feature attribution**
+- ANN tends to overemphasize spindle speed
+
+## 🤝 Acknowledgment
+
+This work was supported by the Advanced Institute of Manufacturing with High-Tech Innovations (AIM-HI) under the Higher Education Sprout Project, Ministry of Education (MOE), Taiwan.
+
 
 ## Reproducibility
 
