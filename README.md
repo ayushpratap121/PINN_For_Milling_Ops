@@ -36,11 +36,6 @@ The work compares **purely data-driven Artificial Neural Networks (ANNs)** with 
 - PINNs show **balanced, physics-consistent feature attribution**
 - ANN tends to overemphasize spindle speed
 
-## 🤝 Acknowledgment
-
-This work was supported by the Advanced Institute of Manufacturing with High-Tech Innovations (AIM-HI) under the Higher Education Sprout Project, Ministry of Education (MOE), Taiwan.
-
-
 ## Reproducibility
 
 Training epochs: 300
@@ -52,3 +47,7 @@ Optimizer: Adam
 Data split: 80% training / 20% testing
 
 Normalization: Min–Max scaling
+
+## 🤝 Acknowledgment
+
+This work was supported by the Advanced Institute of Manufacturing with High-Tech Innovations (AIM-HI) under the Higher Education Sprout Project, Ministry of Education (MOE), Taiwan.
