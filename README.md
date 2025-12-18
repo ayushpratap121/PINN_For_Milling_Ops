@@ -55,4 +55,5 @@ This work was supported by the Advanced Institute of Manufacturing with High-Tec
 
 ## Our Past Publication on CNC Milling
 A. Pratap, T.‐K. Vi, Y. W. lee, N. Sardana, P.‐A. Hsiung, and Y.‐C. Kao, “A DT framework integrating human and artificial intelligence for power consumption prediction in CNC machining,”International Journal of Advanced Manufacturing Technology, vol. 135, no. 1, pp. 915–938, Nov. 2024. 
+Link : https://link.springer.com/article/10.1007/s00170-024-14477-9
 
