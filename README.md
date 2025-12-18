@@ -1,5 +1,6 @@
 # Physics-Informed Neural Network for Energy Modeling in Milling Processes
 
+Nature creates us and gives brain. We observe nature and develops Laws of Physics. We mimic Brain and develop Artificial neural network (ANN). ANN evolved to Physics-Informed Neural Network (PINN) with physical laws. 
 This repository contains the implementation, datasets, and experiments for Physics-Informed Neural Networks (PINNs) applied to spindle power / energy prediction in milling operations.  
 The work compares **purely data-driven Artificial Neural Networks (ANNs)** with **Soft-Constraint PINNs** and **Hybrid PINNs**, highlighting the advantages of physics-guided learning for **robust extrapolation, physical consistency, and explainability**.
 
