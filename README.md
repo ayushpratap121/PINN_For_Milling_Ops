@@ -6,8 +6,7 @@ This repository contains the implementation, datasets, and experiments for Physi
 The work compares **purely data-driven Artificial Neural Networks (ANNs)** with **Soft-Constraint PINNs** and **Hybrid PINNs**, highlighting the advantages of physics-guided learning for **robust extrapolation, physical consistency, and explainability**.
 
 
-![PINN](https://github.com/user-attachments/assets/ea970756-5f98-45d9-8535-35d3cd0b2b8a)
-
+![PINN](https://github.com/user-attachments/assets/4d73039d-d337-441e-b776-5fcfbe2e12eb)
 
 ## 📌 Key Contributions
 
