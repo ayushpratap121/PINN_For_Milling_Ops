@@ -51,3 +51,8 @@ Normalization: Min–Max scaling
 ## 🤝 Acknowledgment
 
 This work was supported by the Advanced Institute of Manufacturing with High-Tech Innovations (AIM-HI) under the Higher Education Sprout Project, Ministry of Education (MOE), Taiwan.
+
+
+## Our Past Publication on CNC Milling
+A. Pratap, T.‐K. Vi, Y. W. lee, N. Sardana, P.‐A. Hsiung, and Y.‐C. Kao, “A DT framework integrating human and artificial intelligence for power consumption prediction in CNC machining,”International Journal of Advanced Manufacturing Technology, vol. 135, no. 1, pp. 915–938, Nov. 2024. 
+
